@@ -1,6 +1,6 @@
-# Hi, I'm Ale 👋
+# Hi 👋, I'm Alemu 
 
-🚀 MERN Stack Developer | 📊 Data Science Enthusiast | 🌌 Astrophysics & Quantum Physics Explorer |space science passinated data scientist
+🚀 MERN Stack Developer | 📊 Data Science and machine learning  Enthusiast | 🌌 Astrophysics & Quantum Physics Explorer |space science passinated data scientist
 
 ---
 
@@ -81,11 +81,10 @@ I enjoy building real-world applications, solving problems with code, and explor
 
 ## 📊 GitHub Stats
 
-### 📊 GitHub Stats
 
-[![Alemu's GitHub stats](https://vercel.app)](https://github.com)
+![Alemu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://vercel.app)](https://github.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect With Me
 
