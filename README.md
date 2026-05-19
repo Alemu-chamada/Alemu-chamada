@@ -83,11 +83,12 @@ I enjoy building real-world applications, solving problems with code, and explor
 
 # 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Alemu-chamada&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alemu-chamada&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Alemu-chamada&layout=compact&theme=tokyonight" />
 
 </div>
+
 
 ## 🌐 Connect With Me
 
