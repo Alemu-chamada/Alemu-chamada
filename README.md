@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a passionate developer working on **MERN Stack Development** and **Data Science**.  
+I am a passionate developer working on **MERN Stack Development**, **machine learning** and **Data Science**.  
 I enjoy building real-world applications, solving problems with code, and exploring scientific fields like **Astrophysics** and **Quantum Physics**.
 
 - 🌱 Currently learning MERN Stack and Advanced Data Science
@@ -79,12 +79,15 @@ I enjoy building real-world applications, solving problems with code, and explor
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
+# 📊 GitHub Stats
 
-![Alemu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alemu-chamada&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ## 🌐 Connect With Me
 
