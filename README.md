@@ -80,13 +80,11 @@ I enjoy building real-world applications, solving problems with code, and explor
 ---
 ## 📊 GitHub Stats
 
-![Alemu's GitHub stats](https://github-readme-stats.vercel.app/api?Alemu-chamada&show_icons=true&theme=default)
-![Alemu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&theme=default)
+![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Alemu-chamada&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alemu-chamada&layout=compact)
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Almue-chamada&layout=compact)
 
 
 ## 🌐 Connect With Me
