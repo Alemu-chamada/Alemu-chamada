@@ -50,7 +50,7 @@ I enjoy building real-world applications, solving problems with code, and explor
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currentlyworking on 
 
 - MERN Stack Development
 - Backend Development
@@ -64,7 +64,8 @@ I enjoy building real-world applications, solving problems with code, and explor
 
 - Probability Simulation Project
 - Titanic Data Analysis
-- Traffic Management System
+- smart Traffic Management System
+- smart library management system
 - MERN Stack Applications (in progress)
 
 ---
@@ -72,6 +73,7 @@ I enjoy building real-world applications, solving problems with code, and explor
 ## 🌌 Interests
 
 - Astrophysics
+- machine learning 
 - Quantum Physics
 - Artificial Intelligence
 - Software Engineering
