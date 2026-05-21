@@ -93,7 +93,7 @@ I enjoy building real-world applications, solving problems with code, and explor
 
 - GitHub: https://github.com/Alemu-chamada
 - Email: alemuchamada@gmail.com
-- Telegram: @Ale_pair
+- Telegram: https://t.me/Ale_pair
 
 ---
 
