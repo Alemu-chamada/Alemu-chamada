@@ -30,28 +30,39 @@ I enjoy building real-world applications, solving problems with code, and explor
 
 </div>
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- MongoDB
-- Express.js
-- React
-- Node.js
+### 🌐 Web Development
 
-### Data Science
-- Pandas
-- NumPy
-- Data Analysis
-- Data Visualization
-- Probability & Statistics
+<div align="center">
 
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Linux (Basic)
+| HTML | CSS | JavaScript | MongoDB |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /> |
+
+| Express.js | React | Node.js |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /> |
+
+</div>
+
+### 📊 Data Science
+
+<div align="center">
+
+| Pandas | NumPy | Data Analysis | Data Visualization | Probability & Stats |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Data Analysis" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Visualization" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Statistics" /> |
+
+</div>
+
+### 🛠 Tools & Technologies
+
+<div align="center">
+
+| Git | GitHub | VS Code | Jupyter | Linux |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /> |
+
+</div>
 
 ---
 
