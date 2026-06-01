@@ -26,7 +26,7 @@ I enjoy building real-world applications, solving problems with code, and explor
 
 | Python | C++ | Java | JavaScript | SQL |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" /> |
+|  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,mysql" /> |
 
 </div>
 
