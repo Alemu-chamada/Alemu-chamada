@@ -1,6 +1,8 @@
-# Hi 👋, I'm Alemu 
+<h1 align="center"> Hi, I'm Alemu</h1>
 
-🚀 MERN Stack Developer | 📊 Data Science and machine learning  Enthusiast | 🌌 Astrophysics & Quantum Physics Explorer |space science passinated data scientist
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&lines=MERN+Stack+Developer;Data+Science+Enthusiast;Astrophysics+Explorer" alt="Typing Animation" />
+</p>
 
 ---
 
@@ -80,11 +82,11 @@ I enjoy building real-world applications, solving problems with code, and explor
 - Scientific Research
 
 ---
-## 📊 GitHub Stats
+### 📊 GitHub Stats & Journey
+*Representing my ongoing growth and technical consistency.*
 
-![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alemu-chamada&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alemu-chamada&theme=radical&hide_border=true)
 
 ---
 
