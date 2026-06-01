@@ -1,7 +1,7 @@
-<h1 align="center"> Hi, I'm Alemu</h1>
+<h1 align="center"> Hello, I'm Alemu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&lines=MERN+Stack+Developer;Data+Science+Enthusiast;Astrophysics+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&lines=MERN+Stack+Developer;Data+Science+and+machine+learning+Enthusiast;AI+Enginer;Astrophysics+Explorer" alt="Typing Animation" />
 </p>
 
 ---
