@@ -86,9 +86,8 @@ I enjoy building real-world applications, solving problems with code, and explor
 *Representing my ongoing growth and technical consistency.*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alemu-chamada&theme=radical&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alemu-chamada&theme=radical&hide_border=true)
 
 ---
 
