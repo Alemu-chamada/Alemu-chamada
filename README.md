@@ -1,119 +1,79 @@
-<h1 align="center"> Hello, I'm Alemu</h1>
+<h1 align="center">👋 Hi, I'm Alemu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&lines=MERN+Stack+Developer;Data+Scientist;+machine+learning+Enthusiast;AI+Enginer;Astrophysics+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&lines=MERN+Stack+Developer;Data+Science+Enthusiast;Astrophysics+Explorer" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 📌 About Me
+I am a passionate developer and researcher dedicated to bridging the gap between MERN Stack development, machine learning, and scientific exploration. 
 
-I am a passionate developer working on **MERN Stack Development**, **machine learning** and **Data Science**.  
-I enjoy building real-world applications, solving problems with code, and exploring scientific fields like **Astrophysics** and **Quantum Physics**.
-
-- 🌱 Currently learning MERN Stack and Advanced Data Science
-- 💡 Interested in Software Development and Scientific Computing
-- 🔬 Passionate about Astrophysics and Quantum Physics
-- 🎯 Goal: Become a professional Software Engineer and Data Scientist
+*   **Current Focus**: Mastering MERN Stack architecture and Advanced Data Science techniques.
+*   **Scientific Interests**: Deeply curious about the intersection of software development and scientific computing.
+*   **Goal**: To evolve into a world-class Software Engineer and Data Scientist, leveraging code to solve complex problems and explore the universe.
 
 ---
 
-## 🛠️ Skills
+### 📊 GitHub Stats & Insights
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Alemu-chamada&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alemu-chamada&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ### 🛠 Programming Languages
-
 <div align="center">
 
 | Python | C++ | Java | JavaScript | SQL |
 | :---: | :---: | :---: | :---: | :---: |
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" /> |
+| <img src="https://skillicons.dev/icons?i=python" width="40" /> | <img src="https://skillicons.dev/icons?i=cpp" width="40" /> | <img src="https://skillicons.dev/icons?i=java" width="40" /> | <img src="https://skillicons.dev/icons?i=js" width="40" /> | <img src="https://skillicons.dev/icons?i=mysql" width="40" /> |
 
 </div>
 
 ### 🌐 Web Development
-
 <div align="center">
 
-| HTML | CSS | JavaScript | MongoDB |
-| :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /> |
-
-| Express.js | React | Node.js |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /> |
+| HTML | CSS | JavaScript | MongoDB | Express | React | Node.js |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html" width="40" /> | <img src="https://skillicons.dev/icons?i=css" width="40" /> | <img src="https://skillicons.dev/icons?i=js" width="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="40" /> | <img src="https://skillicons.dev/icons?i=express" width="40" /> | <img src="https://skillicons.dev/icons?i=react" width="40" /> | <img src="https://skillicons.dev/icons?i=nodejs" width="40" /> |
 
 </div>
 
 ### 📊 Data Science
-
 <div align="center">
 
-| Pandas | NumPy | Data Analysis | Data Visualization | Probability & Stats |
+| Pandas | NumPy | Data Analysis | Visualization | Stats |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Data Analysis" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Visualization" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Statistics" /> |
+| <img src="https://skillicons.dev/icons?i=pandas" width="40" /> | <img src="https://skillicons.dev/icons?i=numpy" width="40" /> | <img src="https://skillicons.dev/icons?i=jupyter" width="40" /> | <img src="https://skillicons.dev/icons?i=matplotlib" width="40" /> | <img src="https://skillicons.dev/icons?i=python" width="40" /> |
 
 </div>
 
 ### 🛠 Tools & Technologies
-
 <div align="center">
 
 | Git | GitHub | VS Code | Jupyter | Linux |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /> |
+| <img src="https://skillicons.dev/icons?i=git" width="40" /> | <img src="https://skillicons.dev/icons?i=github" width="40" /> | <img src="https://skillicons.dev/icons?i=vscode" width="40" /> | <img src="https://skillicons.dev/icons?i=jupyter" width="40" /> | <img src="https://skillicons.dev/icons?i=linux" width="40" /> |
 
 </div>
 
 ---
 
-## 📚 Currently working on 
-
-- MERN Stack Development
-- Backend Development
-- Machine Learning
-- Data Science Projects
-- Scientific Programming
+### 🚀 Projects & Work
+*   **Software Development**: Building robust Smart Library and Traffic Management systems.
+*   **Data Science**: Probability simulations and in-depth data analysis projects.
+*   **In Progress**: Expanding my portfolio with scalable MERN stack applications.
 
 ---
 
-## 💼 Projects
-
-- Probability Simulation Project
-- Titanic Data Analysis
-- smart Traffic Management System
-- smart library management system
-- MERN Stack Applications (in progress)
+### 🔗 Connect With Me
+*   **GitHub**: [Visit my profile](https://github.com/Alemu-chamada)
+*   **Email**: [alemuchamada@gmail.com](mailto:alemuchamada@gmail.com)
+*   **Telegram**: [Reach out here](https://t.me/Ale_pair)
 
 ---
-
-## 🌌 Interests
-
-- Astrophysics
-- machine learning 
-- Quantum Physics
-- Artificial Intelligence
-- Software Engineering
-- Scientific Research
-
----
-### 📊 GitHub Stats & Journey
-*Representing my ongoing growth and technical consistency.*
-
-<!-- Using a high-availability alternative endpoint -->
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Alemu-chamada&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-<!-- Using the standard streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alemu-chamada&theme=radical&hide_border=true)
-
----
-
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/Alemu-chamada
-- Email: alemuchamada@gmail.com
-- Telegram: https://t.me/Ale_pair
-
----
-
-⭐ *Code • Learn • Explore • Build • Discover the Universe*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alemu-chamada&color=brightgreen&style=flat-square" alt="Visitor Counter" />
+</p>
