@@ -352,38 +352,49 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 
 ---
 ## 🤝 Connect With Me
-<div align="center">
+<<div align="center">
 
 <a href="https://github.com/Alemu-chamada" title="Contact me on GitHub">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
+  <img src="https://skillicons.dev/icons?i=github" width="42" />
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/alemu-chamada/" title="Connect with me on LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/Alemu_chamada" title="Follow me on X">
-  <img src="https://skillicons.dev/icons?i=twitter" width="55" />
+  <img src="https://skillicons.dev/icons?i=twitter" width="42" />
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.kaggle.com/alechamada" title="View my Kaggle profile">
-  <img src="https://img.icons8.com/color/96/kaggle.png" width="55" />
+  <img src="https://img.icons8.com/color/96/kaggle.png" width="42" />
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:Alemu.Chamada@astust.edu.et" title="Contact me via Outlook">
-  <img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" width="55" />
+  <img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" width="42" />
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:alemuchamada@gmail.com" title="Contact me via Gmail">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="42" />
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://t.me/Ale_pair" title="Message me on Telegram">
-  <img src="https://skillicons.dev/icons?i=telegram" width="55" />
+  <img src="https://skillicons.dev/icons?i=telegram" width="42" />
 </a>
 
 </div>
-
 
 
 <!-- FOOTER WAVE -->
