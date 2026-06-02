@@ -351,17 +351,50 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 ```
 
 ---
-
 ## 🤝 Connect With Me
-
 
 <div align="center">
 
-| | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <a class="social-anchor" href="https://github.com/Alemu-chamada" title="Click to contact me through GitHub"><img src="https://skillicons.dev/icons?i=github" /><br><sub><b>GitHub</b></sub></a> | <a class="social-anchor" href="https://www.linkedin.com/in/alemu-chamada/" title="Click to contact me through LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" /><br><sub><b>LinkedIn</b></sub></a> | <a class="social-anchor" href="https://x.com/Alemu_chamada" title="Click to contact me through X"><img src="https://skillicons.dev/icons?i=twitter" /><br><sub><b>X</b></sub></a> | <a class="social-anchor" href="https://www.kaggle.com/alechamada" title="Click to contact me through Kaggle"><img src="https://img.icons8.com/color/96/kaggle.png" /><br><sub><b>Kaggle</b></sub></a> | <a class="social-anchor" href="mailto:Alemu.Chamada@astust.edu.et" title="Click to contact me through Outlook"><img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" /><br><sub><b>Outlook</b></sub></a> | <a class="social-anchor" href="mailto:alemuchamada@gmail.com" title="Click to contact me through Gmail"><img src="https://skillicons.dev/icons?i=gmail" /><br><sub><b>Gmail</b></sub></a> | <a class="social-anchor" href="https://t.me/Ale_pair" title="Click to contact me through Telegram"><img src="https://skillicons.dev/icons?i=telegram" /><br><sub><b>Telegram</b></sub></a> |
+<a href="https://github.com/Alemu-chamada" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/alemu-chamada/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://x.com/Alemu_chamada" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.kaggle.com/alechamada" target="_blank">
+  <img src="https://img.icons8.com/color/96/kaggle.png" width="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:Alemu.Chamada@astust.edu.et">
+  <img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" width="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:alemuchamada@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://t.me/Ale_pair" target="_blank">
+  <img src="https://skillicons.dev/icons?i=telegram" width="55" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Alemu-chamada">GitHub</a> • <a href="https://www.linkedin.com/in/alemu-chamada/">LinkedIn</a> • <a href="https://x.com/Alemu_chamada">X</a> • <a href="https://www.kaggle.com/alechamada">Kaggle</a> • <a href="mailto:Alemu.Chamada@astust.edu.et">Outlook</a> • <a href="mailto:alemuchamada@gmail.com">Gmail</a> • <a href="https://t.me/Ale_pair">Telegram</a>
 
 </div>
+
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,40:0f3460,70:0d1b2a,100:0a0a0f&height=120&section=footer&text=%E2%AD%90%20Code%20%E2%80%A2%20Learn%20%E2%80%A2%20Explore%20%E2%80%A2%20Build%20%E2%80%A2%20Discover%20the%20Universe%20%E2%AD%90&fontSize=16&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" />
