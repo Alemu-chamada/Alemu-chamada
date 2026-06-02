@@ -352,62 +352,35 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 
 ---
 ## 🤝 Connect With Me
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/Alemu-chamada">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a><br/>
-<b>GitHub</b>
-</td>
+<a href="https://github.com/Alemu-chamada" title="Contact me on GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
 
-<td align="center">
-<a href="https://www.linkedin.com/in/alemu-chamada/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a><br/>
-<b>LinkedIn</b>
-</td>
+<a href="https://www.linkedin.com/in/alemu-chamada/" title="Connect with me on LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
 
-<td align="center">
-<a href="https://x.com/Alemu_chamada">
-<img src="https://skillicons.dev/icons?i=twitter" width="55"/>
-</a><br/>
-<b>X</b>
-</td>
+<a href="https://x.com/Alemu_chamada" title="Follow me on X">
+  <img src="https://skillicons.dev/icons?i=twitter" width="55" />
+</a>
 
-<td align="center">
-<a href="https://www.kaggle.com/alechamada">
-<img src="https://img.icons8.com/color/96/kaggle.png" width="55"/>
-</a><br/>
-<b>Kaggle</b>
-</td>
+<a href="https://www.kaggle.com/alechamada" title="View my Kaggle profile">
+  <img src="https://img.icons8.com/color/96/kaggle.png" width="55" />
+</a>
 
-<td align="center">
-<a href="mailto:Alemu.Chamada@astust.edu.et">
-<img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" width="55"/>
-</a><br/>
-<b>Outlook</b>
-</td>
+<a href="mailto:Alemu.Chamada@astust.edu.et" title="Contact me via Outlook">
+  <img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" width="55" />
+</a>
 
-<td align="center">
-<a href="mailto:alemuchamada@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a><br/>
-<b>Gmail</b>
-</td>
+<a href="mailto:alemuchamada@gmail.com" title="Contact me via Gmail">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
 
-<td align="center">
-<a href="https://t.me/Ale_pair">
-<img src="https://skillicons.dev/icons?i=telegram" width="55"/>
-</a><br/>
-<b>Telegram</b>
-</td>
-
-</tr>
-</table>
+<a href="https://t.me/Ale_pair" title="Message me on Telegram">
+  <img src="https://skillicons.dev/icons?i=telegram" width="55" />
+</a>
 
 </div>
 
