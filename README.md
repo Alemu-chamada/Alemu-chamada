@@ -355,45 +355,62 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 
 <div align="center">
 
-<a href="https://github.com/Alemu-chamada" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
-</a>
-&nbsp;&nbsp;
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Alemu-chamada">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a><br/>
+<b>GitHub</b>
+</td>
 
-<a href="https://www.linkedin.com/in/alemu-chamada/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
-</a>
-&nbsp;&nbsp;
+<td align="center">
+<a href="https://www.linkedin.com/in/alemu-chamada/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a><br/>
+<b>LinkedIn</b>
+</td>
 
-<a href="https://x.com/Alemu_chamada" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="55" />
-</a>
-&nbsp;&nbsp;
+<td align="center">
+<a href="https://x.com/Alemu_chamada">
+<img src="https://skillicons.dev/icons?i=twitter" width="55"/>
+</a><br/>
+<b>X</b>
+</td>
 
-<a href="https://www.kaggle.com/alechamada" target="_blank">
-  <img src="https://img.icons8.com/color/96/kaggle.png" width="55" />
-</a>
-&nbsp;&nbsp;
+<td align="center">
+<a href="https://www.kaggle.com/alechamada">
+<img src="https://img.icons8.com/color/96/kaggle.png" width="55"/>
+</a><br/>
+<b>Kaggle</b>
+</td>
 
+<td align="center">
 <a href="mailto:Alemu.Chamada@astust.edu.et">
-  <img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" width="55" />
-</a>
-&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" width="55"/>
+</a><br/>
+<b>Outlook</b>
+</td>
 
+<td align="center">
 <a href="mailto:alemuchamada@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
-</a>
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a><br/>
+<b>Gmail</b>
+</td>
 
-<a href="https://t.me/Ale_pair" target="_blank">
-  <img src="https://skillicons.dev/icons?i=telegram" width="55" />
-</a>
+<td align="center">
+<a href="https://t.me/Ale_pair">
+<img src="https://skillicons.dev/icons?i=telegram" width="55"/>
+</a><br/>
+<b>Telegram</b>
+</td>
 
-<br/><br/>
-
-<a href="https://github.com/Alemu-chamada">GitHub</a> • <a href="https://www.linkedin.com/in/alemu-chamada/">LinkedIn</a> • <a href="https://x.com/Alemu_chamada">X</a> • <a href="https://www.kaggle.com/alechamada">Kaggle</a> • <a href="mailto:Alemu.Chamada@astust.edu.et">Outlook</a> • <a href="mailto:alemuchamada@gmail.com">Gmail</a> • <a href="https://t.me/Ale_pair">Telegram</a>
+</tr>
+</table>
 
 </div>
+
 
 
 <!-- FOOTER WAVE -->
