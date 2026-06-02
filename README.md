@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Alemu-chamada">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;Data+Scientist+%26+ML+Engineer+%F0%9F%A7%A0;AI+%26+Deep+Learning+Builder+%F0%9F%A4%96;Astrophysics+%26+Quantum+%26+Pyshics+Explorer+%F0%9F%8C%8C;Tech+%26+Engineering+%F0%9F%8E%93" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;Data+Scientist+%26+ML+Engineer+;AI+%26+Deep+Learning+Builder+;Astrophysics+%26+Quantum+Pyshics+Explorer+%F0%9F%8C%8C;Tech+Engineer+%F0%9F%8E%93" alt="Typing Animation" />
 </a>
 
 <br/>
