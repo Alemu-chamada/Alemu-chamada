@@ -354,26 +354,6 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 
 ## 🤝 Connect With Me
 
-<style>
-  .social-anchor {
-    display: inline-block;
-    text-align: center;
-    text-decoration: none;
-    color: inherit;
-  }
-  .social-anchor img {
-    width: 38px; /* Keeps the icons perfectly small and sharp */
-    height: 38px;
-    transition: transform 0.15s ease-in-out;
-  }
-  .social-anchor:hover img {
-    animation: profileShake 0.15s infinite alternate;
-  }
-  @keyframes profileShake {
-    from { transform: translate(1px, 1px) rotate(1deg); }
-    to { transform: translate(-1px, -1px) rotate(-1deg); }
-  }
-</style>
 
 <div align="center">
 
