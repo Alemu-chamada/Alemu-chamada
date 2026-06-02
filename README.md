@@ -10,8 +10,6 @@
 
 <br/>
 
-
-
 <!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=Alemu-chamada&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS&labelColor=00d4ff" />
 
@@ -42,212 +40,27 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### 💻 Programming Languages
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="65" /><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="65" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="65" /><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="65" /><br/>
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="65" /><br/>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="65" /><br/>
-      <sub><b>SQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="65" /><br/>
-      <sub><b>Bash</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,mysql,bash&theme=dark" />
 
 ### 🌐 Web Development — MERN Stack & Beyond
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="65" /><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="65" /><br/>
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65" /><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="65" /><br/>
-      <sub><b>Express.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65" /><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" /><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="65" /><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="65" /><br/>
-      <sub><b>Tailwind CSS</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="65" /><br/>
-      <sub><b>Redux</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="65" /><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="65" /><br/>
-      <sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="65" /><br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="65" /><br/>
-      <sub><b>GraphQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="65" /><br/>
-      <sub><b>Vercel</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,html,css,tailwind,redux,postgres,firebase,docker,graphql,vercel&theme=dark" />
 
 ### 🧠 Data Science & Machine Learning
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="65" /><br/>
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="65" /><br/>
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="65" /><br/>
-      <sub><b>Scikit-learn</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" width="88" /><br/><br/>
-      <sub><b>Keras</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" width="88" /><br/><br/>
-      <sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" width="88" /><br/><br/>
-      <sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" width="88" /><br/><br/>
-      <sub><b>Matplotlib</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" width="88" /><br/><br/>
-      <sub><b>Seaborn</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" width="88" /><br/><br/>
-      <sub><b>OpenCV</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" width="88" /><br/><br/>
-      <sub><b>HuggingFace</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white" width="88" /><br/><br/>
-      <sub><b>Jupyter</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" width="88" /><br/><br/>
-      <sub><b>SciPy</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white" width="88" /><br/><br/>
-      <sub><b>XGBoost</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" width="88" /><br/><br/>
-      <sub><b>Plotly</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
 ### 🛠 Tools & Environment
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" /><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" /><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="65" /><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="65" /><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="65" /><br/>
-      <sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="65" /><br/>
-      <sub><b>Figma</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark" />
 
 </div>
 
@@ -256,52 +69,14 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 ## 🚀 Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🚦 Smart Traffic Management System
-> An AI-powered traffic control system using ML algorithms to dynamically optimize signal timing, reduce urban congestion, and improve road efficiency in real time.
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **Smart Traffic** | AI-powered traffic optimization | Python, ML, TensorFlow |
+| **Library System** | MERN-stack library management | React, Node, MongoDB |
+| **Sim Engine** | Stochastic simulation tool | Python, NumPy |
+| **Titanic Pred.** | ML Survival analysis | Pandas, Scikit-learn |
 
-![Python](https://img.shields.io/badge/Python-0d1b2a?style=flat-square&logo=python&logoColor=00d4ff)
-![ML](https://img.shields.io/badge/Machine%20Learning-0d1b2a?style=flat-square&logo=tensorflow&logoColor=00d4ff)
-![Simulation](https://img.shields.io/badge/Simulation-0d1b2a?style=flat-square&logo=numpy&logoColor=00d4ff)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Smart Library Management System
-> A full-stack MERN application handling book cataloguing, member management, borrowing workflows, and smart search — built for real institutional deployment.
-
-![React](https://img.shields.io/badge/React-0d1b2a?style=flat-square&logo=react&logoColor=00d4ff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1b2a?style=flat-square&logo=nodedotjs&logoColor=00d4ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1b2a?style=flat-square&logo=mongodb&logoColor=00d4ff)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎲 Probability Simulation Engine
-> A scientific tool modelling stochastic processes, visualizing probability distributions, and running Monte Carlo simulations to validate statistical theories with precision.
-
-![Python](https://img.shields.io/badge/Python-0d1b2a?style=flat-square&logo=python&logoColor=00d4ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1b2a?style=flat-square&logo=numpy&logoColor=00d4ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1b2a?style=flat-square&logo=python&logoColor=00d4ff)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚢 Titanic Survival Prediction
-> End-to-end ML pipeline — rigorous EDA, feature engineering, model comparison, and a final classifier demonstrating strong predictive accuracy on survival outcomes.
-
-![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=flat-square&logo=pandas&logoColor=00d4ff)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1b2a?style=flat-square&logo=scikitlearn&logoColor=00d4ff)
-![Seaborn](https://img.shields.io/badge/Seaborn-0d1b2a?style=flat-square&logo=python&logoColor=00d4ff)
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -310,76 +85,25 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=e0f7ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alemu-chamada&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=e0f7ff" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=e0f7ff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alemu-chamada&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=e0f7ff" />
 <br/>
-
-<img width="68%" src="https://streak-stats.demolab.com?user=Alemu-chamada&hide_border=true&background=0d1b2a&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=e0f7ff&dates=e0f7ff&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alemu-chamada&theme=react-dark&bg_color=0d1b2a&color=00d4ff&line=0f3460&point=00d4ff&area=true&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Alemu-chamada&hide_border=true&background=0d1b2a&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=e0f7ff&dates=e0f7ff&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
-
----
-
-## 🌌 Interests & Explorations
-
-<div align="center">
-
-| 🔭 Astrophysics | ⚛️ Quantum Physics | 🤖 Artificial Intelligence |
-|:-:|:-:|:-:|
-| Black holes, cosmology, stellar evolution & the structure of spacetime | Quantum mechanics, entanglement & quantum computing theory | Deep learning, NLP, computer vision & agentic AI systems |
-
-| 🧠 Machine Learning | 🌐 Full-Stack Engineering | 🔬 Scientific Research |
-|:-:|:-:|:-:|
-| Neural networks, model optimization & real-world ML deployment | Scalable web apps, RESTful APIs & MERN architecture | Computational science, data analysis & simulation |
-
-</div>
-
----
-
-## 📈 Currently Working On
-
-```text
-🌐  MERN Stack Development       ████████████░░░  80%
-🤖  Machine Learning & AI        ██████████░░░░░  68%
-📊  Data Science Research        ████████░░░░░░░  55%
-🔬  Scientific Programming       ██████░░░░░░░░░  42%
-```
 
 ---
 
 ## 🤝 Connect With Me
 
-<style>
-  .social-anchor {
-    display: inline-block;
-    text-align: center;
-    text-decoration: none;
-    color: inherit;
-  }
-  .social-anchor img {
-    width: 38px; /* Keeps the icons perfectly small and sharp */
-    height: 38px;
-    transition: transform 0.15s ease-in-out;
-  }
-  .social-anchor:hover img {
-    animation: profileShake 0.15s infinite alternate;
-  }
-  @keyframes profileShake {
-    from { transform: translate(1px, 1px) rotate(1deg); }
-    to { transform: translate(-1px, -1px) rotate(-1deg); }
-  }
-</style>
-
 <div align="center">
 
-| | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <a class="social-anchor" href="https://github.com/Alemu-chamada" title="Click to contact me through GitHub"><img src="https://skillicons.dev/icons?i=github" /><br><sub><b>GitHub</b></sub></a> | <a class="social-anchor" href="https://www.linkedin.com/in/alemu-chamada/" title="Click to contact me through LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" /><br><sub><b>LinkedIn</b></sub></a> | <a class="social-anchor" href="https://x.com/Alemu_chamada" title="Click to contact me through X"><img src="https://skillicons.dev/icons?i=twitter" /><br><sub><b>X</b></sub></a> | <a class="social-anchor" href="https://www.kaggle.com/alechamada" title="Click to contact me through Kaggle"><img src="https://img.icons8.com/color/96/kaggle.png" /><br><sub><b>Kaggle</b></sub></a> | <a class="social-anchor" href="mailto:Alemu.Chamada@astust.edu.et" title="Click to contact me through Outlook"><img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" /><br><sub><b>Outlook</b></sub></a> | <a class="social-anchor" href="mailto:alemuchamada@gmail.com" title="Click to contact me through Gmail"><img src="https://skillicons.dev/icons?i=gmail" /><br><sub><b>Gmail</b></sub></a> | <a class="social-anchor" href="https://t.me/Ale_pair" title="Click to contact me through Telegram"><img src="https://skillicons.dev/icons?i=telegram" /><br><sub><b>Telegram</b></sub></a> |
+[<img src="https://skillicons.dev/icons?i=github" width="40"/>](https://github.com/Alemu-chamada) &nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>](https://www.linkedin.com/in/alemu-chamada/) &nbsp;
+[<img src="https://skillicons.dev/icons?i=twitter" width="40"/>](https://x.com/Alemu_chamada) &nbsp;
+[<img src="https://img.icons8.com/color/40/kaggle.png" />](https://www.kaggle.com/alechamada) &nbsp;
+[<img src="https://skillicons.dev/icons?i=gmail" width="40"/>](mailto:alemuchamada@gmail.com) &nbsp;
+[<img src="https://skillicons.dev/icons?i=telegram" width="40"/>](https://t.me/Ale_pair)
 
 </div>
 
