@@ -367,7 +367,7 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 </a>
 
 <a href="https://www.kaggle.com/alechamada" title="View my Kaggle profile">
-  <img src="https://img.icons8.com/color/96/kaggle.png" width="35" />
+  <img src="https://cdn.simpleicons.org/kaggle" width="35" />
 </a>
 
 <a href="mailto:Alemu.Chamada@astust.edu.et" title="Contact me via Outlook">
@@ -379,7 +379,7 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 </a>
 
 <a href="https://t.me/Ale_pair" title="Message me on Telegram">
-  <img src="https://share.google/VGOWTMeaWwEcrswyO" width="35" />
+  <img src="https://skillicons.dev/icons?i=telegram" width="35" />
 </a>
 
 </div>
