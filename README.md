@@ -352,92 +352,42 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 
 ---
 
+## 🤝 Connect With Me
+
 <style>
-.social-link{
-    display:inline-block;
-    text-align:center;
-    margin:0 15px;
-    text-decoration:none;
-    color:white;
+.social-link {
+    display: inline-block;
+    text-align: center;
+    margin: 0 15px;
+    text-decoration: none;
+    color: white;
 }
 
-.social-link img{
-    width:50px;
-    transition:0.15s;
-    cursor:pointer;
+.social-link img {
+    width: 40px; /* Locked slightly smaller for clean uniformity */
+    height: 40px;
+    transition: 0.15s;
+    cursor: pointer;
 }
 
-.social-link:hover img{
-    animation:shake 0.15s infinite alternate;
+.social-link:hover img {
+    animation: shake 0.15s infinite alternate;
 }
 
-@keyframes shake{
-    from{
-        transform:translate(1px,1px) rotate(1deg);
+@keyframes shake {
+    from {
+        transform: translate(1px, 1px) rotate(1deg);
     }
-    to{
-        transform:translate(-1px,-1px) rotate(-1deg);
+    to {
+        transform: translate(-1px, -1px) rotate(-1deg);
     }
 }
 </style>
 
 <div align="center">
 
-<a class="social-link"
-   href="https://github.com/Alemu-chamada"
-   title="Click to contact me through GitHub">
-    <img src="https://skillicons.dev/icons?i=github">
-    <br>
-    GitHub
-</a>
-
-<a class="social-link"
-   href="https://www.linkedin.com/in/alemu-chamada/"
-   title="Click to contact me through LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin">
-    <br>
-    LinkedIn
-</a>
-
-<a class="social-link"
-   href="https://x.com/Alemu_chamada"
-   title="Click to contact me through X">
-    <img src="https://skillicons.dev/icons?i=twitter">
-    <br>
-    X
-</a>
-
-<a class="social-link"
-   href="https://www.kaggle.com/alechamada"
-   title="Click to contact me through Kaggle">
-    <img src="https://img.icons8.com/color/96/kaggle.png">
-    <br>
-    Kaggle
-</a>
-
-<a class="social-link"
-   href="mailto:Alemu.Chamada@astust.edu.et"
-   title="Click to contact me through Outlook">
-    <img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png">
-    <br>
-    Outlook
-</a>
-
-<a class="social-link"
-   href="mailto:alemuchamada@gmail.com"
-   title="Click to contact me through Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail">
-    <br>
-    Gmail
-</a>
-
-<a class="social-link"
-   href="https://t.me/Ale_pair"
-   title="Click to contact me through Telegram">
-    <img src="https://skillicons.dev/icons?i=telegram">
-    <br>
-    Telegram
-</a>
+| [<img src="https://skillicons.dev/icons?i=github" /> <br> **GitHub**](https://github.com/Alemu-chamada "Click to contact me through GitHub"){: .social-link} | [<img src="https://skillicons.dev/icons?i=linkedin" /> <br> **LinkedIn**](https://www.linkedin.com/in/alemu-chamada/ "Click to contact me through LinkedIn"){: .social-link} | [<img src="https://skillicons.dev/icons?i=twitter" /> <br> **X**](https://x.com/Alemu_chamada "Click to contact me through X"){: .social-link} | [<img src="https://img.icons8.com/color/96/kaggle.png" /> <br> **Kaggle**](https://www.kaggle.com/alechamada "Click to contact me through Kaggle"){: .social-link} | [<img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" /> <br> **Outlook**](mailto:Alemu.Chamada@astust.edu.et "Click to contact me through Outlook"){: .social-link} | [<img src="https://skillicons.dev/icons?i=gmail" /> <br> **Gmail**](mailto:alemuchamada@gmail.com "Click to contact me through Gmail"){: .social-link} | [<img src="https://skillicons.dev/icons?i=telegram" /> <br> **Telegram**](https://t.me/Ale_pair "Click to contact me through Telegram"){: .social-link} |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
