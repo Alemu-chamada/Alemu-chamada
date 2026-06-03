@@ -354,8 +354,6 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 ## 🤝 Connect With Me
 
 - phone number: - phone number: +251956047594
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+251992738116
-
 - telegram: https://t.me/Ale_pair
 - github:https://github.com/Alemu-chamada
 - linkden: https://www.linkedin.com/in/alemu-chamada
@@ -373,7 +371,7 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 </a>
 
 <a href="https://x.com/Alemu_chamada" title="Follow me on X">
-  <img src="https://skillicons.dev/icons?i=twitter" width="35" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" />
 </a>
 
 <a href="https://www.kaggle.com/alechamada" title="View my Kaggle profile">
@@ -389,7 +387,7 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 </a>
 
 <a href="https://t.me/Ale_pair" title="Message me on Telegram">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="35" />
 </a>
 
 </div>
