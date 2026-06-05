@@ -353,7 +353,7 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 ---
 ## 🤝 Connect With Me
 
-- phone number: - phone number: +251956047594
+- phone number: +251956047594
 - telegram: https://t.me/Ale_pair
 - github:https://github.com/Alemu-chamada
 - linkden: https://www.linkedin.com/in/alemu-chamada
