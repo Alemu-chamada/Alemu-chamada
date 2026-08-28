@@ -309,18 +309,12 @@ My approach is rooted in an **engineering and scientific mindset**: I don't just
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alemu-chamada&show_icons=true&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=e0f7ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alemu-chamada&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=e0f7ff" />
-
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Alemu-chamada&show_icons=true&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=e0f7ff" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alemu-chamada&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=e0f7ff" />
 <br/>
-
 <img width="68%" src="https://streak-stats.demolab.com?user=Alemu-chamada&hide_border=true&background=0d1b2a&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=e0f7ff&dates=e0f7ff&currStreakNum=ffffff&sideNums=ffffff" />
-
 <br/>
-
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alemu-chamada&theme=react-dark&bg_color=0d1b2a&color=00d4ff&line=0f3460&point=00d4ff&area=true&hide_border=true" />
-
 </div>
 
 ---
