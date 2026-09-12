@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,60:0f3460,100:16213e&height=220&section=header&text=Alemu%20Chamada&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=MERN%20Stack%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20Engineer&descSize=18&descAlignY=60&descColor=7eb8d4&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,60:0f3460,100:16213e&height=220&section=header&text=Alemu%20Chamada&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=MERN%20Stack%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Machine%20Learning&descSize=18&descAlignY=60&descColor=7eb8d4&animation=fadeIn" />
+
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Alemu-chamada">
