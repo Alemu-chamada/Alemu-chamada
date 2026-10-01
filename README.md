@@ -14,9 +14,10 @@
 
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=Alemu-chamada&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS&labelColor=00d4ff" />
+<img src="https://komarev.com/ghpvc/?username=Alemu-chamada&style=for-the-badge&color=0f3460&label=PROFILE%20VIEWS&labelColor=00d4ff" alt="Profile Views" />
 
 </div>
+
 
 ---
 
