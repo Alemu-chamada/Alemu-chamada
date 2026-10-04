@@ -13,8 +13,9 @@
 
 
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=Alemu-chamada&style=for-the-badge&color=0f3460&label=PROFILE%20VIEWS&labelColor=00d4ff" alt="Profile Views" />
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alemu-chamada.Alemu-chamada&left_color=0f3460&right_color=00d4ff&left_text=PROFILE%20VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
